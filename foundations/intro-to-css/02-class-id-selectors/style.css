@@ -1,7 +1,7 @@
 /* Add CSS Styling */
 .odd-text {
     background-color: rgb(255,192,203);
-    font-family: "Verdana, DejaVu sans, sans-serif";
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
 .third-text {
@@ -11,5 +11,11 @@
 #even {
     color: blue;
     font-size: 36px;
-    font-family: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#fourth {
+    background-color: rgb(85, 212, 85);
+    font-size: 24px;
+    font-weight: 700;
 }
